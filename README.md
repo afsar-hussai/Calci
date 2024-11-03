@@ -36,5 +36,15 @@ Calci is designed to provide a seamless calculation experience for users, featur
 
 ### Clone the Repository
 
-```bash
+```
 git clone https://github.com/afsar-hussai/Calci.git
+```
+
+## 🤝 Contributing
+Feel free to fork this repository, make improvements, and submit a pull request. Let's make Calci even better together!
+
+## 📬 Contact
+
+If you have questions or suggestions, feel free to reach out to me on LinkedIn or open an issue here on GitHub.
+
+Thank you for checking out Calci! Happy calculating! 🎉
